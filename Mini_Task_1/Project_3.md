@@ -10,4 +10,9 @@
 - An android app will be used to control the movements of the RC car. The app has been built in the MIT App Inventor and 3 extensions are imported namely WebSocketConnector (to control the board), ClientSocketAI2Ext (to control the camera) and TaifunWiFi (to switch betweeb Wi-Fi networks).
 - The app has 6 buttons to control the moment, 1 button to stop all movement, 1 button to quit the app, a button to toggle the recording and a button to take a picture.
 - The camera used is the SQ13 which is comparatively cheaper then other options. By default, this camera works in Access Point Mode but can be changed to Station Mode until it is powered off.
+
 ![App schematic](Project_3_app.png)
+
+### My suggestions
+- I think this is more of a fun project than something which aims to solve any specific problem statement.
+- In order to increase the applications, we can have different modifications to the module such as water proofing it so that it can explore underwater areas, making it such that it can bear high temperatures so that it can be used to explore areas near an active volcano.
