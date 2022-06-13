@@ -76,7 +76,7 @@
 - In order to increase the applications, we can have different modifications to the module such as water proofing it so that it can explore underwater areas or making it such that it can bear high temperatures so that it can be used to explore an active volcano site.
 
 
-# Project:5- Metal Detector Robotic Vehicle
+# Project-5: Metal Detector Robotic Vehicle
 
 ### Description:
 - In order to detect landmines or any kind of metal present under the ground, this project explains metal detection robot that uses the RF technology.
