@@ -5,7 +5,7 @@
 - A water quality monitor along with a GPS attached to it will greatly reduce the risk of the entire plant getting contaminated as it can detect the exact location of the source of polluted water.
 
 ### Working
-![Circuit schematic](Project_2_schematic.png)
+![Circuit schematic](images/Project_2_schematic.png)
 - The water quality monitor consists of 4 fou sensors i.e. temperature sensor, pH sensor, turbidity sensor and dissolved oxygen sensor and is based on Arduino Uno.
 - All the 4 sensors are interfaced to Arduino Genuino 101. Arduino Genuino 101 collects the measurements data periodically, gets the GPS coordinates, and uploads the data bundle into a database using GPRS data link. Users can access the results on the website.
 - When any of the values detected by the sensors go beyond the certified limits, it shows a warning.
