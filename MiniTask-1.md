@@ -35,3 +35,23 @@
 
 ### Personal notes:
 - I think that if we somehow implemented this module inside a laptop or a PC or any electronic device for that matter and added a bunch of more guestures to it then we can control the device entirely using hand guestures itself.
+
+
+### Project-3: Density Based Traffic Signal System using Microcontroller
+
+### Description:
+- Nowadays controlling the traffic has become a major issue in every city because of exponential increase in the number of automobiles and time delays between traffic lights.
+- In order to rectify this problem, this project has desiged a density based traffic light system.
+- The traffic density is measured using IR sensors which inturn are connected to the microcontroller which controls the traffic lights.
+- In this project the ATmega8 controller is used. Along with the controller, 4 IR sensors and 4 traffic lights are also needed.
+- If there is traffic on the road then that particular IR sensors outputs zero otherwise it outputs 1.
+- If a particular IR sensor outputs 0, green signal is given to that particular path and red signal is given to all other parts.
+- We can allow a time delay of 1 minute for each path.
+- Sometimes the device can be malfunctioning. The most commmon reason for ths is that sometimes the sensor also absorbs normal light.
+- Another limitation of the project is that the IR sensor can only detect objects at short distances. So in an actual traffic light system, a different approach should be implemented in order to measure the traffic density.
+
+### Schematic:
+![Circuit](https://www.electronicshub.org/wp-content/uploads/2014/06/Density-Based-Traffic-Lights-System-Circuit-Diagram.jpg)
+
+### Personal notes:
+- In order to calculate the traffic density, instead of an IR sensor,a normal camera can be used to get a view of the road and using computer vision, we can count the number of cars on the road to get the traffic density.
