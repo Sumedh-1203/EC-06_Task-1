@@ -31,7 +31,7 @@
 - Then using an algorithm which detects a simple hand guesture of increasing and decreasing the volume, we can control the volume of the speakers.
 
 ### Visuals:
-![gif](https://hackster.imgix.net/uploads/attachments/586349/gesture_detection_QY3OQN8byq.gif?auto=format%2Ccompress&gifq=35&w=900&h=675&fit=min&fm=mp4 =400x400)
+![gif](https://hackster.imgix.net/uploads/attachments/586349/gesture_detection_QY3OQN8byq.gif?auto=format%2Ccompress&gifq=35&w=900&h=675&fit=min&fm=mp4)
 
 ### Personal notes:
 - I think that if we somehow implemented this module inside a laptop or a PC or any electronic device for that matter and added a bunch of more guestures to it then we can control the device entirely using hand guestures itself.
