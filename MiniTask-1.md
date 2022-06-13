@@ -37,7 +37,7 @@
 - I think that if we somehow implemented this module inside a laptop or a PC or any electronic device for that matter and added a bunch of more guestures to it then we can control the device entirely using hand guestures itself.
 
 
-### Project-3: Density Based Traffic Signal System using Microcontroller
+# Project-3: Density Based Traffic Signal System using Microcontroller
 
 ### Description:
 - Nowadays controlling the traffic has become a major issue in every city because of exponential increase in the number of automobiles and time delays between traffic lights.
