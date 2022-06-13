@@ -51,7 +51,7 @@
 - Another limitation of the project is that the IR sensor can only detect objects at short distances. So in an actual traffic light system, a different approach should be implemented in order to measure the traffic density.
 
 ### Schematic:
-![Circuit](https://www.electronicshub.org/wp-content/uploads/2014/06/Density-Based-Traffic-Lights-System-Circuit-Diagram.jpg)
+![image](https://www.electronicshub.org/wp-content/uploads/2014/06/Density-Based-Traffic-Lights-System-Circuit-Diagram.jpg)
 
 ### Personal notes:
 - In order to calculate the traffic density, instead of an IR sensor,a normal camera can be used to get a view of the road and using computer vision, we can count the number of cars on the road to get the traffic density.
@@ -74,3 +74,33 @@
 ### Personal notes:
 - I think this is more of a fun project than something which aims to solve any specific problem statement.
 - In order to increase the applications, we can have different modifications to the module such as water proofing it so that it can explore underwater areas or making it such that it can bear high temperatures so that it can be used to explore an active volcano site.
+
+
+# Project:5- Metal Detector Robotic Vehicle
+
+### Description:
+- In order to detect landmines or any kind of metal present under the ground, this project explains metal detection robot that uses the RF technology.
+- The proposed device includes a reciever and a transmitter circuit. The transmitter transmits the commands needed to set the robot in motion. The reciever recieves these commands through RF and moves the robot accordingly.
+- A metal detector is interfaced to the microcontroller in the reciever side and whenever it detects any metal, the robot stops and the buzzer starts ringing.
+- The microcontroller used in this device is the AT89c51.
+- The transmitter section consists of the RF encoder, RF transmitter and Push buttons whereas the reciever section consists of the AT89c51 microcontroller, RF decoder, RF receiver, metal detector, buzzer, L293d IC and robot.
+- Input is given to the encodes using the push buttons. This data is then transmitted by the RF transmitter to the RF reciever serially.
+- The data recieved by the reciever is applied to the RF decoder. The decoded data is applied to the microcontroller which controls the movements of the robot.
+
+### Personal notes:
+- Since the transmitter can only work within the RF range i.e. 30m of the reciever, some connection module with longer range can be used in order to increase the military application.
+
+
+# Project-6: Password Based Circuit Breaker
+
+### Description: 
+- Nowadays there are a lot of accidents on electrical lines when the line man is trying to make repairs.
+- To avoid this, this project has developed a curcuit breaker that switches on and off the electrical supply of that particular power line if the correct password is entered.
+- The 8051 microcontroller is used in the circuit. 4x4 keypad is used to enter the password into the system. Each electrical line has a different password.
+- Activation and deactivation of the lines is indicatd by the load lights.
+
+### Schematic:
+![image](https://www.electronicshub.org/wp-content/uploads/2014/08/Block-Diagram-of-Password-Based-Circuit-Breaker.jpg)
+
+### Personal notes:
+- I think that this is a very useful project and if implemented, will surely save a lot of lives of people working on the lines.
