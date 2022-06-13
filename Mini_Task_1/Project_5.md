@@ -11,3 +11,6 @@
 - If we use the separate PIR sensors, we shouldnt connect the PIR power pins to the arduino 5V power supply and use an external power source.
 - After setting up the TPA81, we write the code so that the device detects and prints the value of the temperature of the object in front of each of the 8 PIR sensors.
 - Then we write an algorithm to detect a simple hand guesture of increasing and decreasing the volume.
+
+### My suggestions
+- I think that if we somehow implemented this module inside a laptop or a PC and added a bunch of more guestures to it then we can control the laptop/PC using hand guestures itself.
