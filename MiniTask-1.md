@@ -1,4 +1,4 @@
-# Project-1: Facial Recognition Door Using Windows IOT
+# Project-1: [Facial Recognition Door Using Windows IOT](https://www.hackster.io/windows-iot/windows-iot-facial-recognition-door-e087ce)
 
 ### Decsription:
 - Home security is a growing concern for a lot of people these days. To overcome this concern and to put home owners at ease, this door is designed such that it unlocks itself using facial recognition.
@@ -20,7 +20,7 @@
 - We can also integrate an app with the system which notifies the owner whenever someone tries to access the door. And if any suspicious activity is detected by the camera, the app will alert the owner immediately.
 
 
-# Project-2: Easy Motion and Gesture Detection by PIR Sensor & Arduino
+# Project-2: [Easy Motion and Gesture Detection by PIR Sensor & Arduino](https://www.hackster.io/electropeak/easy-motion-and-gesture-detection-by-pir-sensor-arduino-101fcc)
 
 ### Description:
 - In this project a PIR sensor and an Arduino nano is used to detect the motion of the hand which is used to increase or decrease the volume of the speaker.
@@ -37,7 +37,7 @@
 - I think that if we somehow implemented this module inside a laptop or a PC or any electronic device for that matter and added a bunch of more guestures to it then we can control the device entirely using hand guestures itself.
 
 
-# Project-3: Density Based Traffic Signal System using Microcontroller
+# Project-3: [Density Based Traffic Signal System using Microcontroller](https://www.electronicshub.org/density-based-traffic-signal-system-using-microcontroller/)
 
 ### Description:
 - Nowadays controlling the traffic has become a major issue in every city because of exponential increase in the number of automobiles and time delays between traffic lights.
@@ -57,7 +57,7 @@
 - In order to calculate the traffic density, instead of an IR sensor,a normal camera can be used to get a view of the road and using computer vision, we can count the number of cars on the road to get the traffic density.
 
 
-# Project-4: WeMos D1 Mini Controlling RC Car And Relaying Video Stream
+# Project-4: [WeMos D1 Mini Controlling RC Car And Relaying Video Stream](https://www.hackster.io/abouhatab/wemos-d1-mini-controlling-rc-car-and-relaying-video-stream-13547c)
 
 ### Description:
 - This project is a RC car controlled via an app in our phone along with a video camera which can record videos or capture images.
@@ -76,7 +76,7 @@
 - In order to increase the applications, we can have different modifications to the module such as water proofing it so that it can explore underwater areas or making it such that it can bear high temperatures so that it can be used to explore an active volcano site.
 
 
-# Project-5: Metal Detector Robotic Vehicle
+# Project-5: [Metal Detector Robotic Vehicle](https://www.electronicshub.org/metal-detector-robotic-vehicle/)
 
 ### Description:
 - In order to detect landmines or any kind of metal present under the ground, this project explains metal detection robot that uses the RF technology.
@@ -91,7 +91,7 @@
 - Since the transmitter can only work within the RF range i.e. 30m of the reciever, some connection module with longer range can be used in order to increase the military application.
 
 
-# Project-6: Water Quality Monitoring System
+# Project-6: [Water Quality Monitoring System](https://www.hackster.io/chanhj/water-quality-monitoring-system-ddcb43)
 
 ### Description:
 - In September 2016, a water treatment plant had to be shut down because polluted water flowed into the plant. The water supply company was unable to pin point the contamination source and this caused a serious water service disruption.
@@ -108,7 +108,7 @@
 - Along with just displaying a warning on the webpage, we can have systems to automatically shut down and seal off the part of the water plant where the contamination is detected.
 
 
-# Project-7: Password Based Circuit Breaker
+# Project-7: [Password Based Circuit Breaker](https://www.electronicshub.org/password-based-circuit-breaker/#:~:text=Password%20Based%20Circuit%20Breaker%20is,electrical%20substation%20and%20maintenance%20staff.)
 
 ### Description: 
 - Nowadays there are a lot of accidents on electrical lines when the line man is trying to make repairs.
