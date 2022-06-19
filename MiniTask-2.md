@@ -37,3 +37,10 @@ From the above we can choose the Camera for improvements.
 | IR Sensor               | Cheap and easily available in the market.      | Very easy to set up and low power consumption.        | IR sensors can detect objects at a short range.          |
 | ATmega8 Microcontroller | This microcontroller is cheap and easy to use. | Many tutorials and proper documentation is available. | Has less computational capabilities compared to arduino. |
 | Traffic light           | Easily available and cheap.                    | Will help in reduce congestion on road.               | Can get damaged due to external factors like rain etc.   |
+
+**Choosing a pipeline:** 
+From the above we can choose the IR sensor for improvement.
+
+*IR Sensor-*
+- IR sensors have a short range so cannot detect traffic at very long ranges.
+- Instead of IR sensor we can have a camera which can measure the traffic density using computer vision and time the signals accordingly.
