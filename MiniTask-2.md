@@ -23,4 +23,17 @@ From the above we can choose the Camera for improvements.
 - To overcome this issue, we can either use a depth camera or add a finger print reader for extra security.
 
 
-# Project-2: 
+# Project-2: [Density Based Traffic Signal System Using Microcontroller](https://www.electronicshub.org/density-based-traffic-signal-system-using-microcontroller/)
+
+**Problem Statement:** Designing a device that measures traffic density on the road and operates the signal accordingly to reduce traffic congestion at an intersection.
+
+**Ideation and Planning:** Understanding the working of the device
+- *IR sensor -> Microcontroller -> Traffic light*
+
+**Part of the pipelone to break:**
+
+| Part of the Pipeline    | Feasibility                                    | Advantages                                            | Disadvantages                                            |
+|-------------------------|------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------|
+| IR Sensor               | Cheap and easily available in the market.      | Very easy to set up and low power consumption.        | IR sensors can detect objects at a short range.          |
+| ATmega8 Microcontroller | This microcontroller is cheap and easy to use. | Many tutorials and proper documentation is available. | Has less computational capabilities compared to arduino. |
+| Traffic light           | Easily available and cheap.                    | Will help in reduce congestion on road.               | Can get damaged due to external factors like rain etc.   |
