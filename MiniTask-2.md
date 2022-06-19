@@ -15,5 +15,12 @@
 | Microcontroller        | In this project, the Raspberry Pi is used. It is a low cost development board which is easily available in market. | The Raspberry Pi supports many interfaces like WiFi, USB, GPIO, bluetooth etc and also supports python making it very easy to build applications. | Raspberry Pi needs a bit of prior knowledge about linux and python and is not very easy to code for beginners. |
 | Relay switch           | Relay switches are very cheap and the motion of the door can be controlled very easily using a relay switch.       | Very easy to install and low power consupmtion.                                                                                                   | It can get damaged if high current is inputted.                                                                |
 
+**Choosing a pipeline:** 
+From the above we can choose the Camera for improvements. 
+
+*Webcam-* 
+- If a normal webcam is used, the door will unlock even if we show the camera a photo of a person instead of the actual face. 
+- To overcome this issue, we can either use a depth camera or add a finger print reader for extra security.
+
 
 # Project-2: 
