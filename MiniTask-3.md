@@ -30,7 +30,6 @@
 ### Testing the relay switch:
 - Run the following code to check if the relay switch is working
 ```
-Python
 import RPi.GPIO as GPIO
 GPIO.setmode(GPIO.BCM) # GPIO Numbers instead of board numbers
  
