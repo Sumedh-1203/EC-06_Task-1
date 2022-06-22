@@ -29,7 +29,7 @@
 
 ### Testing the relay switch:
 - Run the following code to check if the relay switch is working
-'''
+```
 Python
 import RPi.GPIO as GPIO
 GPIO.setmode(GPIO.BCM) # GPIO Numbers instead of board numbers
@@ -38,5 +38,5 @@ RELAIS_1_GPIO = 17
 GPIO.setup(RELAIS_1_GPIO, GPIO.OUT) # GPIO Assign mode
 GPIO.output(RELAIS_1_GPIO, GPIO.LOW) # out
 GPIO.output(RELAIS_1_GPIO, GPIO.HIGH) # on
-'''
+```
 - If 0V is present at the relay pin, the corresponding LED lights up, at a HIGH level the LED goes out. So if you want the relay to open at a HIGH level, you need to connect the middle and left pins to the circuit. The LED is off there. If the relay is to open, if the LED is also on, middle and right OUT pins are connected.
